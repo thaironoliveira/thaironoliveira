@@ -1,4 +1,4 @@
-# Olá, eu sou o Thairon Oliveira! 👋
+# Olá, eu sou o Thaìron Oliveira! 👋
 
 ### 🔧 Onde o Chão de Fábrica encontra a Ciência de Dados
 
